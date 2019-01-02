@@ -1,1 +1,3 @@
-# Shifst
+# Julian
+
+Julian Music Bot || MagixGames
